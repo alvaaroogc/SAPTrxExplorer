@@ -415,8 +415,8 @@
   {
     "codigo": "FK03",
     "nombre": "Visualizar registro maestro de proveedores",
-    "modulo": "",
-    "submodulo": "",
+    "modulo": "FI",
+    "submodulo": "FI-AP",
     "estado": "importado"
   },
   {
