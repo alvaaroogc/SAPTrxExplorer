@@ -1,11 +1,6 @@
 name: Sync to Vault
 
 on:
-  push:
-    branches: [main]
-    paths:
-      - 'transacciones.json'
-
   workflow_dispatch:
 
 jobs:
