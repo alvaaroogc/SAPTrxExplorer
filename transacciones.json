@@ -819,13 +819,6 @@
     "estado": "importado"
   },
   {
-    "codigo": "TEST02",
-    "nombre": "TEST02",
-    "modulo": "FI",
-    "submodulo": "",
-    "estado": "borrador"
-  },
-  {
     "codigo": "VA01",
     "nombre": "Crear pedido de venta",
     "modulo": "SD",
