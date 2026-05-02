@@ -392,17 +392,17 @@
     "estado": "importado"
   },
   {
-    "codigo": "FI12",
-    "nombre": "Crear cuenta bancaria",
-    "modulo": "FI",
-    "submodulo": "FI-BL",
-    "estado": "importado"
-  },
-  {
     "codigo": "FI_APAR_SEPA_CUST",
     "nombre": "Mandatos SEPA",
     "modulo": "CUSTO",
     "submodulo": "",
+    "estado": "importado"
+  },
+  {
+    "codigo": "FI12",
+    "nombre": "Crear cuenta bancaria",
+    "modulo": "FI",
+    "submodulo": "FI-BL",
     "estado": "importado"
   },
   {
@@ -817,6 +817,20 @@
     "modulo": "",
     "submodulo": "",
     "estado": "importado"
+  },
+  {
+    "codigo": "TEST01",
+    "nombre": "Test01",
+    "modulo": "FI",
+    "submodulo": "",
+    "estado": "borrador"
+  },
+  {
+    "codigo": "TEST02",
+    "nombre": "TEST02",
+    "modulo": "FI",
+    "submodulo": "",
+    "estado": "borrador"
   },
   {
     "codigo": "VA01",
