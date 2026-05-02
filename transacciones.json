@@ -275,8 +275,8 @@
   {
     "codigo": "FB08",
     "nombre": "Anular documento",
-    "modulo": "",
-    "submodulo": "",
+    "modulo": "FI",
+    "submodulo": "FI-GL",
     "estado": "importado"
   },
   {
